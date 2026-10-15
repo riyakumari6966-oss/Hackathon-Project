@@ -1,2 +1,2 @@
 # Hackathon-Project
-AI-powered study assistant built for the Microsoft Hackathon
+physical AI problem statement built for the Microsoft Hackathon by firm gen
